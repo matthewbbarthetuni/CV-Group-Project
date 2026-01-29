@@ -1,0 +1,11 @@
+{
+  "path": "Dataset/MatthewBorgBarthet/condition_detection_data/data.yaml",
+  "train": "images/train",
+  "val": "images/val",
+  "test": "images/test",
+  "names": [
+    "Good",
+    "Heavily Damaged",
+    "Weathered"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "path": "/home/mbb/Documents/Uni/Uni/Third Year/vision/ass/for eel/on cod/no carp/barri alla/foxx dylan/YOLO_COCO_condition",
+  "train": "images/train",
+  "val": "images/val",
+  "test": "images/test",
+  "names": [
+    "Good",
+    "Heavily Damaged",
+    "Weathered"
+  ]
+}
