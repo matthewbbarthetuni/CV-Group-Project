@@ -1,0 +1,47 @@
+
+RetinaNET Sign Condition Detection
+
+
+Dataset Information
+
+Classes: Good, Heavily Damaged, Weathered
+Number of Classes: 3
+Traning Samples: 371
+Validation Samples: 69
+Test Samples: 66
+
+
+Model Architecture
+Base Model: retinanet_resnet50_fpn_v2
+
+
+Training Details
+
+Total Epochs: 39
+Batch Size: 8
+Image Size: 640x640
+Initial Learning Rate: 0.0001
+Optimiser: AdamW
+Scheduler: ReduceLROnPlateau
+Patience: 20
+
+
+Validation Performance
+
+mAP50: 0.3577
+mAP50-95: 0.2760
+mAP75: 0.3211
+Best Validation Loss: 0.4551
+
+
+Test Performance
+
+mAP50: 0.3612
+mAP50-95: 0.2630
+mAP75: 0.2912
+
+
+Model Files
+Best Model: condition_detection/retinanet/best_model.pth
+Final Model: condition_detection/retinanet/final_model.pth
+Training History: condition_detection/retinanet/training_history.csv
