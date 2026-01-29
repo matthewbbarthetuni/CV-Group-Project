@@ -1,0 +1,14 @@
+{
+  "path": "Dataset/MatthewBorgBarthet/sign_detection_data/data.yaml",
+  "train": "images/train",
+  "val": "images/val",
+  "test": "images/test",
+  "names": [
+    "Blind-Spot Mirror (Convex)",
+    "No Entry (One Way)",
+    "No Through Road (T-Sign)",
+    "Pedestrian Crossing",
+    "Roundabout Ahead",
+    "Stop"
+  ]
+}
