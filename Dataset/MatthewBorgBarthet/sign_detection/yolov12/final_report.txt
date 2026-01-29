@@ -1,0 +1,44 @@
+
+2a - Sign detection using YOLOv12
+
+Model Architectiure
+Base Model: yolov12n
+Number of Classes: 6
+Classes: Blind-Spot Mirror (Convex), No Entry (One Way), No Through Road (T-Sign), Pedestrian Crossing, Roundabout Ahead, Stop
+
+
+Training Details
+
+Total Epochs: 100
+Batch Size: 16
+Image Input Size: 640x640
+Optimisation: Early Sopping (Patience: 20)
+Random Seed: 1337
+
+
+Validation Performance
+
+Mean Average Precision @0.50: 0.9366
+Mean Average Precision @0.50-0.95: 0.8297
+Precision: 0.9213
+Recall: 0.8657
+
+
+Per-Class Preformance Metrics
+
+Class                          Precision       Recall          AP50            AP50-95        
+Blind-Spot Mirror (Convex)     0.9889          1.0000          0.9950          0.9100         
+No Entry (One Way)             0.8119          0.6667          0.7937          0.5846         
+No Through Road (T-Sign)       0.9562          0.8000          0.9617          0.9235         
+Pedestrian Crossing            0.9160          0.8889          0.9193          0.7458         
+Roundabout Ahead               0.9056          0.9091          0.9730          0.9281         
+Stop                           0.9489          0.9296          0.9770          0.8864         
+
+
+
+Findings
+
+- The YOLOv12 model successfully learned to detect 6 traffic sign types
+- Overall mAP50-95 results indicate strong detection performance
+- Per-class analysis shows varied performance across different sign types
+- Early stopping helped prevent overfitting while maintaining model performance
