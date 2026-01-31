@@ -16,7 +16,7 @@ The **`Dataset/`** directory is structured as follows:
     * `TiffaneyPsaila/`
     * `NikolinaFilipovPajic/`
 
-### 2. Data Visualization
+### 2. Data Visualisation
 * **`1_data_visualisation.ipynb`**: A notebook implemented to visualise class and sign attribute distributions.
 
 ### 3. Object Detection Notebooks (Task 2a)
@@ -51,7 +51,7 @@ To run these notebooks, using Google Colab or a local Jupyter environment is rec
 * **Deep Learning & Logging:** `torch`, `tensorboard`
 * **Evaluation & Augmentation:** `torchmetrics`, `pycocotools`, `albumentations`
 * **Data Handling:** `pandas`, `numpy`, `pyyaml`, `scipy`
-* **Visualization:** `matplotlib`, `seaborn`, `Pillow`, `opencv-python`
+* **Visualisation:** `matplotlib`, `seaborn`, `Pillow`, `opencv-python`
 
 ### Quick Installation
 If you are running the project in a local environment, you can install all required external dependencies with the following command:
