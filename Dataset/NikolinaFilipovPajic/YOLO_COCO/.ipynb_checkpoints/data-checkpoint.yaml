@@ -1,0 +1,13 @@
+path: /Users/nfilipovpajic/Desktop/YOLO_COCO
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: stop
+  1: no_entry
+  2: pedestrian_crossing
+  3: roundabout_ahead
+  4: no_through_road
+  5: blind_spot_mirror

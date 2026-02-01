@@ -1,0 +1,3297 @@
+{
+  "info": {
+    "description": "Attribute COCO for 'view_angle'"
+  },
+  "licenses": [],
+  "images": [
+    {
+      "id": 13,
+      "file_name": "IMG_1506.jpg",
+      "width": 3845,
+      "height": 5127
+    },
+    {
+      "id": 23,
+      "file_name": "IMG_1517.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 26,
+      "file_name": "IMG_1520.jpg",
+      "width": 3895,
+      "height": 5193
+    },
+    {
+      "id": 28,
+      "file_name": "IMG_1522.jpg",
+      "width": 1645,
+      "height": 2193
+    },
+    {
+      "id": 29,
+      "file_name": "IMG_1523.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 33,
+      "file_name": "IMG_1527.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 38,
+      "file_name": "IMG_1532.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 40,
+      "file_name": "IMG_1534.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 54,
+      "file_name": "IMG_1550.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 71,
+      "file_name": "IMG_1567.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 77,
+      "file_name": "IMG_1573.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 83,
+      "file_name": "IMG_1580.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 98,
+      "file_name": "IMG_1596.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 111,
+      "file_name": "IMG_1609.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 116,
+      "file_name": "IMG_1614.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 137,
+      "file_name": "IMG_1636.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 149,
+      "file_name": "IMG_1648.jpg",
+      "width": 4284,
+      "height": 5712
+    },
+    {
+      "id": 165,
+      "file_name": "IMG_20251123_143037.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 176,
+      "file_name": "IMG_20251123_144205.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 181,
+      "file_name": "IMG_20251123_145518.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 183,
+      "file_name": "IMG_20251123_145915.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 190,
+      "file_name": "IMG_20251123_150542.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 194,
+      "file_name": "IMG_20251123_151128.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 198,
+      "file_name": "IMG_20251123_151438.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 199,
+      "file_name": "IMG_20251123_151450.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 207,
+      "file_name": "IMG_20251123_151709.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 213,
+      "file_name": "IMG_20251123_152108.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 230,
+      "file_name": "IMG_20251123_154204.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 231,
+      "file_name": "IMG_20251123_164424.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 235,
+      "file_name": "IMG_20251123_165832.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 238,
+      "file_name": "IMG_20251123_170230.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 248,
+      "file_name": "IMG_20251125_113631.jpg",
+      "width": 3472,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 257,
+      "file_name": "IMG_20251125_114024.jpg",
+      "width": 3472,
+      "height": 4624
+    },
+    {
+      "id": 281,
+      "file_name": "IMG_20251125_120307.jpg",
+      "width": 3472,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 286,
+      "file_name": "IMG_20251125_120359.jpg",
+      "width": 3472,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 287,
+      "file_name": "IMG_20251125_120930.jpg",
+      "width": 3472,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 291,
+      "file_name": "IMG_20251125_121035.jpg",
+      "width": 3472,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 294,
+      "file_name": "IMG_20251125_121142.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 312,
+      "file_name": "IMG_20251125_122024.jpg",
+      "width": 3472,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 313,
+      "file_name": "IMG_20251125_122030.jpg",
+      "width": 3472,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 324,
+      "file_name": "IMG_20251125_122819+1.jpg",
+      "width": 3472,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 331,
+      "file_name": "IMG_20251125_124406.jpg",
+      "width": 2080,
+      "height": 4624,
+      "attributes": {
+        "custom_tags": [
+          "Tiffaney Psaila"
+        ]
+      }
+    },
+    {
+      "id": 338,
+      "file_name": "20260110_172729.jpg",
+      "width": 3468,
+      "height": 4624
+    },
+    {
+      "id": 357,
+      "file_name": "IMG_20260106_160600_879.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 360,
+      "file_name": "IMG_20260106_161746_914.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 370,
+      "file_name": "IMG_20260106_162033_174.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 375,
+      "file_name": "IMG_20260106_162103_269.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 377,
+      "file_name": "IMG_20260106_162110_401.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 378,
+      "file_name": "IMG_20260106_162113_716.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 379,
+      "file_name": "IMG_20260106_162304_258.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 386,
+      "file_name": "IMG_20260110_171246_403.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 403,
+      "file_name": "IMG_20260110_172521_196.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 404,
+      "file_name": "IMG_20260110_172523_601.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 412,
+      "file_name": "IMG_20260110_172625_333.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 422,
+      "file_name": "IMG_20260110_172947_725.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 427,
+      "file_name": "IMG_20260110_173014_412.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 431,
+      "file_name": "IMG_20260110_173104_171.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 437,
+      "file_name": "IMG_20260110_173326_716.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 440,
+      "file_name": "IMG_20260110_173508_968.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 442,
+      "file_name": "IMG_20260110_173644_468.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 446,
+      "file_name": "IMG_20260113_082936_743.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 450,
+      "file_name": "IMG_20260113_082952_561.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 461,
+      "file_name": "IMG_20260113_083553_539.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 475,
+      "file_name": "IMG_20260113_083805_099.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 500,
+      "file_name": "IMG_20260113_084957_227.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 504,
+      "file_name": "IMG_20260113_085011_841.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 506,
+      "file_name": "IMG_20260113_085025_925.jpg",
+      "width": 3072,
+      "height": 4080
+    },
+    {
+      "id": 509,
+      "file_name": "IMG_8805.jpeg",
+      "width": 3024,
+      "height": 4032
+    },
+    {
+      "id": 519,
+      "file_name": "IMG_8815.jpeg",
+      "width": 3024,
+      "height": 4032
+    },
+    {
+      "id": 521,
+      "file_name": "WhatsApp Image 2025-11-16 at 17.52.13 (1) - Edited.jpg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 524,
+      "file_name": "WhatsApp Image 2025-11-16 at 17.52.23 (1).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 527,
+      "file_name": "WhatsApp Image 2025-11-16 at 17.52.23 (4).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 529,
+      "file_name": "WhatsApp Image 2025-11-16 at 17.52.24 (2).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 543,
+      "file_name": "WhatsApp Image 2025-11-16 at 17.52.27 (1).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 544,
+      "file_name": "WhatsApp Image 2025-11-16 at 17.52.27 (2) - Edited.jpg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 546,
+      "file_name": "WhatsApp Image 2025-11-16 at 17.52.28 (2).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 585,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.43.jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 588,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.44.jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 595,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.48 (1).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 598,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.50 (1).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 599,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.50 (2).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 603,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.53.jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 608,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.57 (4).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 609,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.57.jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 610,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.58 (1).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 618,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.01.59.jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 623,
+      "file_name": "WhatsApp Image 2025-11-17 at 15.02.00.jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 626,
+      "file_name": "WhatsApp Image 2025-11-20 at 16.02.59 (1).jpeg",
+      "width": 1530,
+      "height": 2040
+    },
+    {
+      "id": 645,
+      "file_name": "wall_stop.jpeg",
+      "width": 3024,
+      "height": 4032
+    }
+  ],
+  "annotations": [
+    {
+      "id": 14,
+      "image_id": 13,
+      "category_id": 2,
+      "bbox": [
+        1153.2917725116001,
+        2104.7908182663164,
+        1355.6640968901872,
+        1232.7211748510153
+      ],
+      "iscrowd": 0,
+      "area": 1671155.8382218124,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 24,
+      "image_id": 23,
+      "category_id": 3,
+      "bbox": [
+        1204.5858633864834,
+        1529.3339337298166,
+        1733.5124454548054,
+        1982.421106432176
+      ],
+      "iscrowd": 0,
+      "area": 3436551.6601324626,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Heavily Damaged"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 27,
+      "image_id": 26,
+      "category_id": 3,
+      "bbox": [
+        1693.7163421941177,
+        1490.3661402745902,
+        829.1909026399625,
+        1613.325110194248
+      ],
+      "iscrowd": 0,
+      "area": 1337754.5043736855,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "sign_shape": [
+          "Circular"
+        ],
+        "condition": [
+          "Good"
+        ]
+      }
+    },
+    {
+      "id": 29,
+      "image_id": 28,
+      "category_id": 2,
+      "bbox": [
+        582.6652450866601,
+        865.0529372648537,
+        538.2001748425779,
+        524.5231806749323
+      ],
+      "iscrowd": 0,
+      "area": 282298.46754823363,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 30,
+      "image_id": 28,
+      "category_id": 1,
+      "bbox": [
+        624.9975432612905,
+        483.2851519199878,
+        515.9470483321995,
+        420.861556759915
+      ],
+      "iscrowd": 0,
+      "area": 217142.2779667726,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 31,
+      "image_id": 29,
+      "category_id": 3,
+      "bbox": [
+        1908.1658760860066,
+        1568.8728848595274,
+        880.8639757739091,
+        1890.064160713978
+      ],
+      "iscrowd": 0,
+      "area": 1664889.4310742915,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 32,
+      "image_id": 29,
+      "category_id": 1,
+      "bbox": [
+        2157.4198675531,
+        264.15123468164603,
+        848.8118132108941,
+        1590.038878716444
+      ],
+      "iscrowd": 0,
+      "area": 1349643.783719122,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 40,
+      "image_id": 33,
+      "category_id": 1,
+      "bbox": [
+        774.7965851438513,
+        951.3154359786377,
+        1618.0865357825671,
+        1714.7203975374118
+      ],
+      "iscrowd": 0,
+      "area": 2774565.987887017,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 41,
+      "image_id": 33,
+      "category_id": 1,
+      "bbox": [
+        1511.386930397781,
+        2576.5323321893743,
+        839.7454969497276,
+        2210.8714647800316
+      ],
+      "iscrowd": 0,
+      "area": 1856569.3568836797,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 48,
+      "image_id": 38,
+      "category_id": 3,
+      "bbox": [
+        1860.1643712681603,
+        2531.356205274909,
+        580.3759858459925,
+        1286.621778689219
+      ],
+      "iscrowd": 0,
+      "area": 746724.3832176799,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 50,
+      "image_id": 40,
+      "category_id": 3,
+      "bbox": [
+        1425.4103142124109,
+        2924.9637970264894,
+        1443.0844863459506,
+        1294.927921322831
+      ],
+      "iscrowd": 0,
+      "area": 1868690.3941971872,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "sign_shape": [
+          "Square"
+        ],
+        "condition": [
+          "Heavily Damaged"
+        ]
+      }
+    },
+    {
+      "id": 67,
+      "image_id": 54,
+      "category_id": 1,
+      "bbox": [
+        1433.3766883682295,
+        2441.648109296772,
+        1621.0371506343763,
+        1140.6628061327644
+      ],
+      "iscrowd": 0,
+      "area": 1849056.7850880683,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 84,
+      "image_id": 71,
+      "category_id": 3,
+      "bbox": [
+        1568.6733826041043,
+        1756.8217214748336,
+        1080.8940448148173,
+        1766.121528061025
+      ],
+      "iscrowd": 0,
+      "area": 1908990.2421004071,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 90,
+      "image_id": 77,
+      "category_id": 3,
+      "bbox": [
+        1688.313902576419,
+        2452.6680925234173,
+        964.2694391820081,
+        1552.820622153238
+      ],
+      "iscrowd": 0,
+      "area": 1497337.4704739598,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 97,
+      "image_id": 83,
+      "category_id": 3,
+      "bbox": [
+        1563.9535799391858,
+        1709.021461893772,
+        1033.5875565145398,
+        1673.8348081815702
+      ],
+      "iscrowd": 0,
+      "area": 1730054.8293973724,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 113,
+      "image_id": 98,
+      "category_id": 3,
+      "bbox": [
+        1116.3048871812557,
+        2023.3026080160278,
+        1643.9508628702067,
+        2045.1054378437825
+      ],
+      "iscrowd": 0,
+      "area": 3362052.849203838,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 128,
+      "image_id": 111,
+      "category_id": 1,
+      "bbox": [
+        702.3392883266539,
+        1330.319736931868,
+        2769.9718131644313,
+        1925.0443544221246
+      ],
+      "iscrowd": 0,
+      "area": 5332318.600840605,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 133,
+      "image_id": 116,
+      "category_id": 3,
+      "bbox": [
+        1393.328241354305,
+        2415.6789232666497,
+        1491.0655393124355,
+        1814.5293256024881
+      ],
+      "iscrowd": 0,
+      "area": 2705582.1474777036,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 154,
+      "image_id": 137,
+      "category_id": 1,
+      "bbox": [
+        870.5309066109838,
+        2529.121983854675,
+        1860.964943704943,
+        1423.1985270704013
+      ],
+      "iscrowd": 0,
+      "area": 2648522.566810527,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 166,
+      "image_id": 149,
+      "category_id": 1,
+      "bbox": [
+        1156.1197760259424,
+        2536.0360704620316,
+        1956.5126912348614,
+        1620.9304115771588
+      ],
+      "iscrowd": 0,
+      "area": 3171370.921859259,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 185,
+      "image_id": 165,
+      "category_id": 2,
+      "bbox": [
+        184.67516677743328,
+        680.1720176994045,
+        885.1671786918366,
+        1015.7134172758823
+      ],
+      "iscrowd": 0,
+      "area": 899076.1799295369,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 196,
+      "image_id": 176,
+      "category_id": 3,
+      "bbox": [
+        831.4461005097884,
+        583.9571717016645,
+        527.4098398756101,
+        1588.4343412724274
+      ],
+      "iscrowd": 0,
+      "area": 837755.9015834113,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 204,
+      "image_id": 181,
+      "category_id": 3,
+      "bbox": [
+        832.1845101543048,
+        1624.2919673030306,
+        304.3637791768072,
+        955.4711042512396
+      ],
+      "iscrowd": 0,
+      "area": 290810.79618414445,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 206,
+      "image_id": 183,
+      "category_id": 2,
+      "bbox": [
+        439.20849147032885,
+        834.4872238695414,
+        851.4480404819556,
+        947.765692120183
+      ],
+      "iscrowd": 0,
+      "area": 806973.2413917541,
+      "attributes": {
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ],
+        "view_angle": [
+          "Front"
+        ]
+      }
+    },
+    {
+      "id": 214,
+      "image_id": 190,
+      "category_id": 3,
+      "bbox": [
+        923.0313191794826,
+        1161.1662905049918,
+        620.0159871256151,
+        1148.502822325352
+      ],
+      "iscrowd": 0,
+      "area": 712090.1111006081,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 215,
+      "image_id": 190,
+      "category_id": 3,
+      "bbox": [
+        948.8482706840548,
+        291.7173565468718,
+        372.5343881544775,
+        1152.6277650591528
+      ],
+      "iscrowd": 0,
+      "area": 429393.4792261743,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 219,
+      "image_id": 194,
+      "category_id": 1,
+      "bbox": [
+        563.3918850429739,
+        761.7901428913689,
+        742.5226492181208,
+        847.5953344164355
+      ],
+      "iscrowd": 0,
+      "area": 629358.7331758108,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 231,
+      "image_id": 198,
+      "category_id": 2,
+      "bbox": [
+        424.58106771137744,
+        1316.114559094423,
+        1111.23505526421,
+        1041.185854072768
+      ],
+      "iscrowd": 0,
+      "area": 1157002.220090866,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 232,
+      "image_id": 199,
+      "category_id": 3,
+      "bbox": [
+        1036.8272958570744,
+        1464.9300345925187,
+        318.72386542105414,
+        1047.2355578120323
+      ],
+      "iscrowd": 0,
+      "area": 333778.96499222476,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 240,
+      "image_id": 207,
+      "category_id": 2,
+      "bbox": [
+        652.6484075006454,
+        654.7392223822795,
+        783.178089000777,
+        722.5750225900024
+      ],
+      "iscrowd": 0,
+      "area": 565904.9253517314,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 241,
+      "image_id": 207,
+      "category_id": 1,
+      "bbox": [
+        694.6043765542535,
+        1204.8285944185343,
+        722.5750225899981,
+        233.0887169645108
+      ],
+      "iscrowd": 0,
+      "area": 168424.08492610508,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 251,
+      "image_id": 213,
+      "category_id": 2,
+      "bbox": [
+        653.0394342517134,
+        815.1427434691299,
+        757.8746583332514,
+        802.9439113608877
+      ],
+      "iscrowd": 0,
+      "area": 608530.8424833972,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 271,
+      "image_id": 230,
+      "category_id": 1,
+      "bbox": [
+        671.2488871144178,
+        1073.8560443561796,
+        659.9673932133347,
+        1201.4791004653011
+      ],
+      "iscrowd": 0,
+      "area": 792937.0299343871,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 272,
+      "image_id": 231,
+      "category_id": 2,
+      "bbox": [
+        508.55720064985525,
+        1766.8420917276153,
+        1059.4941680205309,
+        967.0292224478278
+      ],
+      "iscrowd": 0,
+      "area": 1024561.8214889022,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 276,
+      "image_id": 235,
+      "category_id": 3,
+      "bbox": [
+        619.9517633484116,
+        1820.0635643601129,
+        592.2341555276302,
+        1044.3699086723784
+      ],
+      "iscrowd": 0,
+      "area": 618511.5309210543,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Heavily Damaged"
+        ],
+        "sign_shape": [
+          "Damaged"
+        ]
+      }
+    },
+    {
+      "id": 279,
+      "image_id": 238,
+      "category_id": 3,
+      "bbox": [
+        571.134417146195,
+        2154.244567564731,
+        361.82438631942205,
+        778.6460793593898
+      ],
+      "iscrowd": 0,
+      "area": 281733.13982423523,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Damaged"
+        ]
+      }
+    },
+    {
+      "id": 289,
+      "image_id": 248,
+      "category_id": 1,
+      "bbox": [
+        984.5675045229374,
+        870.2704592508577,
+        1428.4602758264266,
+        1293.0823490134367
+      ],
+      "iscrowd": 0,
+      "area": 1847116.7689380173,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 299,
+      "image_id": 257,
+      "category_id": 1,
+      "bbox": [
+        1147.3730208193406,
+        654.7392223822785,
+        1034.9139033224535,
+        1053.5610006796119
+      ],
+      "iscrowd": 0,
+      "area": 1090344.9276016473,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 300,
+      "image_id": 257,
+      "category_id": 2,
+      "bbox": [
+        402.1569211945581,
+        3598.856361411273,
+        111.43358042758764,
+        113.23089624093863
+      ],
+      "iscrowd": 0,
+      "area": 12617.724183152466,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 301,
+      "image_id": 257,
+      "category_id": 3,
+      "bbox": [
+        1042.0013507465108,
+        3674.3436255718975,
+        25.257018562753828,
+        79.08189578731972
+      ],
+      "iscrowd": 0,
+      "area": 1997.372909878098,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 334,
+      "image_id": 281,
+      "category_id": 2,
+      "bbox": [
+        1190.4986714344436,
+        618.9283195031884,
+        1245.9651415921408,
+        1233.2512115758964
+      ],
+      "iscrowd": 0,
+      "area": 1536588.020449841,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 339,
+      "image_id": 286,
+      "category_id": 1,
+      "bbox": [
+        1124.1118794629378,
+        671.4072711383404,
+        966.319625992233,
+        784.0244234704087
+      ],
+      "iscrowd": 0,
+      "area": 757618.1876567014,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 340,
+      "image_id": 287,
+      "category_id": 2,
+      "bbox": [
+        1211.6120174352423,
+        2082.408147778046,
+        1346.876758644824,
+        1358.8635495060757
+      ],
+      "iscrowd": 0,
+      "area": 1830221.7329993434,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 345,
+      "image_id": 291,
+      "category_id": 3,
+      "bbox": [
+        1708.6175880469416,
+        972.309027213706,
+        262.684504467901,
+        588.4132900080982
+      ],
+      "iscrowd": 0,
+      "area": 154567.05350810458,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 348,
+      "image_id": 294,
+      "category_id": 2,
+      "bbox": [
+        805.1045383157888,
+        1851.426502166281,
+        788.0535134037011,
+        756.531372867554
+      ],
+      "iscrowd": 0,
+      "area": 596187.2063884013,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 374,
+      "image_id": 312,
+      "category_id": 3,
+      "bbox": [
+        1023.5035388229766,
+        967.1493789956472,
+        657.1251448705292,
+        1457.798087118648
+      ],
+      "iscrowd": 0,
+      "area": 957955.7791898219,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 375,
+      "image_id": 313,
+      "category_id": 1,
+      "bbox": [
+        1199.1078659777822,
+        728.5405167507912,
+        1209.496219475329,
+        988.4260844279785
+      ],
+      "iscrowd": 0,
+      "area": 1195497.6123464424,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 376,
+      "image_id": 313,
+      "category_id": 2,
+      "bbox": [
+        1205.9319314460995,
+        2679.220975115936,
+        35.062918371592495,
+        50.30766548967535
+      ],
+      "iscrowd": 0,
+      "area": 1763.9335685298677,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 390,
+      "image_id": 324,
+      "category_id": 3,
+      "bbox": [
+        1281.7413284955599,
+        996.3008786217733,
+        504.70449458432614,
+        1437.0593624423946
+      ],
+      "iscrowd": 0,
+      "area": 725290.3192091627,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 398,
+      "image_id": 331,
+      "category_id": 1,
+      "bbox": [
+        587.3835667505831,
+        1349.3435989365435,
+        885.7371244651652,
+        1738.8418285553
+      ],
+      "iscrowd": 0,
+      "area": 1540156.7611243213,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 406,
+      "image_id": 338,
+      "category_id": 1,
+      "bbox": [
+        924.8,
+        1051.7333333333333,
+        1486.9333333333332,
+        1414.4
+      ],
+      "iscrowd": 0,
+      "area": 2103118.5066666664,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 425,
+      "image_id": 357,
+      "category_id": 3,
+      "bbox": [
+        1168.0,
+        656.0,
+        1392.0000000000005,
+        1664.0
+      ],
+      "iscrowd": 0,
+      "area": 2316288.000000001,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 428,
+      "image_id": 360,
+      "category_id": 2,
+      "bbox": [
+        856.0,
+        392.00000000000006,
+        1784.0000000000002,
+        1768.0
+      ],
+      "iscrowd": 0,
+      "area": 3154112.0000000005,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Heavily Damaged"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 438,
+      "image_id": 370,
+      "category_id": 3,
+      "bbox": [
+        808.0000000000002,
+        967.9999999999997,
+        1032.0000000000007,
+        1312.0
+      ],
+      "iscrowd": 0,
+      "area": 1353984.000000001,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 443,
+      "image_id": 375,
+      "category_id": 2,
+      "bbox": [
+        712.0000000000001,
+        1280.0,
+        1287.9999999999995,
+        968.0000000000002
+      ],
+      "iscrowd": 0,
+      "area": 1246783.9999999998,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 445,
+      "image_id": 377,
+      "category_id": 2,
+      "bbox": [
+        1136.0000000000002,
+        1200.0,
+        1352.0000000000002,
+        1200.0
+      ],
+      "iscrowd": 0,
+      "area": 1622400.0000000002,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 446,
+      "image_id": 378,
+      "category_id": 3,
+      "bbox": [
+        984.0,
+        1064.0,
+        823.9999999999999,
+        1416.0
+      ],
+      "iscrowd": 0,
+      "area": 1166783.9999999998,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ]
+      }
+    },
+    {
+      "id": 447,
+      "image_id": 379,
+      "category_id": 1,
+      "bbox": [
+        576.0,
+        880.0,
+        1968.0,
+        1488.0000000000002
+      ],
+      "iscrowd": 0,
+      "area": 2928384.0000000005,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 454,
+      "image_id": 386,
+      "category_id": 3,
+      "bbox": [
+        1552.0,
+        880.0,
+        663.9999999999997,
+        1248.0000000000002
+      ],
+      "iscrowd": 0,
+      "area": 828671.9999999998,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 472,
+      "image_id": 403,
+      "category_id": 2,
+      "bbox": [
+        1264.0,
+        1840.0000000000002,
+        816.0000000000005,
+        808.0000000000001
+      ],
+      "iscrowd": 0,
+      "area": 659328.0000000005,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 473,
+      "image_id": 404,
+      "category_id": 3,
+      "bbox": [
+        1064.0000000000002,
+        1952.0,
+        775.9999999999999,
+        1360.0
+      ],
+      "iscrowd": 0,
+      "area": 1055359.9999999998,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 481,
+      "image_id": 412,
+      "category_id": 3,
+      "bbox": [
+        1152.0,
+        1344.0,
+        1192.0000000000002,
+        1296.0000000000002
+      ],
+      "iscrowd": 0,
+      "area": 1544832.0000000005,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 491,
+      "image_id": 422,
+      "category_id": 1,
+      "bbox": [
+        768.0,
+        800.0000000000001,
+        1423.9999999999998,
+        1304.0000000000005
+      ],
+      "iscrowd": 0,
+      "area": 1856896.0000000005,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 496,
+      "image_id": 427,
+      "category_id": 1,
+      "bbox": [
+        984.0,
+        960.0,
+        1616.0,
+        1472.0
+      ],
+      "iscrowd": 0,
+      "area": 2378752.0,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 500,
+      "image_id": 431,
+      "category_id": 3,
+      "bbox": [
+        928.0,
+        672.0,
+        1072.0,
+        1424.0
+      ],
+      "iscrowd": 0,
+      "area": 1526528.0,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 506,
+      "image_id": 437,
+      "category_id": 3,
+      "bbox": [
+        1240.0,
+        712.0,
+        1168.0,
+        2072.0
+      ],
+      "iscrowd": 0,
+      "area": 2420096.0,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 509,
+      "image_id": 440,
+      "category_id": 2,
+      "bbox": [
+        448.0,
+        608.0,
+        1856.0,
+        1680.0
+      ],
+      "iscrowd": 0,
+      "area": 3118080.0,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 511,
+      "image_id": 442,
+      "category_id": 3,
+      "bbox": [
+        896.0,
+        848.0,
+        1184.0000000000002,
+        1584.0000000000002
+      ],
+      "iscrowd": 0,
+      "area": 1875456.0000000007,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 515,
+      "image_id": 446,
+      "category_id": 1,
+      "bbox": [
+        432.0,
+        656.0,
+        1536.0,
+        1680.0
+      ],
+      "iscrowd": 0,
+      "area": 2580480.0,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 519,
+      "image_id": 450,
+      "category_id": 3,
+      "bbox": [
+        720.0,
+        848.0,
+        1152.0,
+        1591.9999999999998
+      ],
+      "iscrowd": 0,
+      "area": 1833983.9999999998,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 530,
+      "image_id": 461,
+      "category_id": 2,
+      "bbox": [
+        752.0,
+        936.0000000000001,
+        1616.0000000000002,
+        1512.0
+      ],
+      "iscrowd": 0,
+      "area": 2443392.0000000005,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 544,
+      "image_id": 475,
+      "category_id": 2,
+      "bbox": [
+        1080.0,
+        1744.0,
+        888.0,
+        760.0000000000002
+      ],
+      "iscrowd": 0,
+      "area": 674880.0000000002,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 569,
+      "image_id": 500,
+      "category_id": 3,
+      "bbox": [
+        1128.0,
+        1528.0,
+        919.9999999999998,
+        1168.0
+      ],
+      "iscrowd": 0,
+      "area": 1074559.9999999998,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 573,
+      "image_id": 504,
+      "category_id": 1,
+      "bbox": [
+        519.9999999999999,
+        752.0000000000002,
+        2295.9999999999986,
+        1515.016393442623
+      ],
+      "iscrowd": 0,
+      "area": 3478477.63934426,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 575,
+      "image_id": 506,
+      "category_id": 3,
+      "bbox": [
+        960.0000000000002,
+        2122.6229508196725,
+        1400.0000000000002,
+        1869.377049180328
+      ],
+      "iscrowd": 0,
+      "area": 2617127.8688524594,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 578,
+      "image_id": 509,
+      "category_id": 2,
+      "bbox": [
+        1025.5086848635196,
+        1210.60049627791,
+        1170.580645161296,
+        1005.4987593052168
+      ],
+      "iscrowd": 0,
+      "area": 1177017.3863763832,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 588,
+      "image_id": 519,
+      "category_id": 3,
+      "bbox": [
+        1218.9767441860474,
+        1237.7302325581397,
+        250.04651162790745,
+        1625.302325581396
+      ],
+      "iscrowd": 0,
+      "area": 406401.17685235356,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 590,
+      "image_id": 521,
+      "category_id": 3,
+      "bbox": [
+        623.0697674418602,
+        604.0930232558139,
+        183.44186046511712,
+        1037.3953488372078
+      ],
+      "iscrowd": 0,
+      "area": 190301.7328285566,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 593,
+      "image_id": 524,
+      "category_id": 3,
+      "bbox": [
+        547.1627906976745,
+        12.651162790697674,
+        164.46511627906793,
+        1799.627906976744
+      ],
+      "iscrowd": 0,
+      "area": 295976.01297998586,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 596,
+      "image_id": 527,
+      "category_id": 3,
+      "bbox": [
+        683.1627906976734,
+        398.51162790697606,
+        249.86046511627922,
+        1148.093023255811
+      ],
+      "iscrowd": 0,
+      "area": 286863.0567874521,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 598,
+      "image_id": 529,
+      "category_id": 3,
+      "bbox": [
+        670.5116279069771,
+        426.97674418604623,
+        271.99999999999994,
+        1483.3488372093016
+      ],
+      "iscrowd": 0,
+      "area": 403470.88372092997,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 614,
+      "image_id": 543,
+      "category_id": 3,
+      "bbox": [
+        518.6976744186052,
+        638.883720930233,
+        158.13953488372107,
+        1100.6511627906962
+      ],
+      "iscrowd": 0,
+      "area": 174056.46295294745,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 615,
+      "image_id": 544,
+      "category_id": 1,
+      "bbox": [
+        151.8139534883719,
+        414.3255813953495,
+        936.1860465116256,
+        1027.9069767441842
+      ],
+      "iscrowd": 0,
+      "area": 962312.1687398553,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 617,
+      "image_id": 546,
+      "category_id": 1,
+      "bbox": [
+        199.25581395348837,
+        562.9767441860467,
+        1005.7674418604657,
+        958.3255813953488
+      ],
+      "iscrowd": 0,
+      "area": 963852.6684694435,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 659,
+      "image_id": 585,
+      "category_id": 1,
+      "bbox": [
+        442.79069767441797,
+        964.6511627906962,
+        740.0930232558146,
+        721.116279069767
+      ],
+      "iscrowd": 0,
+      "area": 533693.1270957275,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Damaged"
+        ]
+      }
+    },
+    {
+      "id": 662,
+      "image_id": 588,
+      "category_id": 3,
+      "bbox": [
+        774.8837209302318,
+        531.3488372093018,
+        183.4418604651163,
+        970.9767441860472
+      ],
+      "iscrowd": 0,
+      "area": 178117.78042184978,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 669,
+      "image_id": 595,
+      "category_id": 3,
+      "bbox": [
+        683.162790697673,
+        515.5348837209305,
+        170.79069767441828,
+        543.9999999999997
+      ],
+      "iscrowd": 0,
+      "area": 92910.13953488349,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 672,
+      "image_id": 598,
+      "category_id": 3,
+      "bbox": [
+        752.7441860465117,
+        445.9534883720931,
+        215.06976744186125,
+        1312.558139534884
+      ],
+      "iscrowd": 0,
+      "area": 282291.5738236896,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 673,
+      "image_id": 599,
+      "category_id": 1,
+      "bbox": [
+        240.37209302325576,
+        632.5581395348809,
+        1084.8372093023258,
+        948.8372093023241
+      ],
+      "iscrowd": 0,
+      "area": 1029333.9102217401,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Weathered"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 677,
+      "image_id": 603,
+      "category_id": 3,
+      "bbox": [
+        702.1395348837214,
+        455.4418604651161,
+        196.09302325581376,
+        1053.2093023255813
+      ],
+      "iscrowd": 0,
+      "area": 206526.9962141696,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 682,
+      "image_id": 608,
+      "category_id": 1,
+      "bbox": [
+        430.1395348837208,
+        866.6046511627904,
+        765.3953488372089,
+        642.0465116279036
+      ],
+      "iscrowd": 0,
+      "area": 491419.4137371523,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 683,
+      "image_id": 609,
+      "category_id": 3,
+      "bbox": [
+        708.4651162790698,
+        493.3953488372089,
+        151.813953488372,
+        797.0232558139528
+      ],
+      "iscrowd": 0,
+      "area": 120999.25148729024,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 684,
+      "image_id": 610,
+      "category_id": 3,
+      "bbox": [
+        797.0232558139536,
+        708.4651162790698,
+        129.67441860465112,
+        964.6511627906976
+      ],
+      "iscrowd": 0,
+      "area": 125090.57869118438,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Triangular"
+        ]
+      }
+    },
+    {
+      "id": 692,
+      "image_id": 618,
+      "category_id": 3,
+      "bbox": [
+        787.5348837209303,
+        948.8372093023258,
+        170.79069767441857,
+        866.6046511627909
+      ],
+      "iscrowd": 0,
+      "area": 148008.01297998917,
+      "attributes": {
+        "view_angle": [
+          "Side"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Square"
+        ]
+      }
+    },
+    {
+      "id": 699,
+      "image_id": 623,
+      "category_id": 2,
+      "bbox": [
+        417.48837209302326,
+        784.3720930232558,
+        800.1860465116276,
+        695.8139534883724
+      ],
+      "iscrowd": 0,
+      "area": 556780.6165494863,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Octagonal"
+        ]
+      }
+    },
+    {
+      "id": 702,
+      "image_id": 626,
+      "category_id": 1,
+      "bbox": [
+        208.74418604651157,
+        366.88372093023247,
+        923.5348837209286,
+        1110.1395348837195
+      ],
+      "iscrowd": 0,
+      "area": 1025252.5862628417,
+      "attributes": {
+        "view_angle": [
+          "Back"
+        ],
+        "mounting": [
+          "Pole-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    },
+    {
+      "id": 724,
+      "image_id": 645,
+      "category_id": 2,
+      "bbox": [
+        843.9069767441858,
+        562.6046511627904,
+        1218.976744186046,
+        1156.465116279071
+      ],
+      "iscrowd": 0,
+      "area": 1409704.0822065992,
+      "attributes": {
+        "view_angle": [
+          "Front"
+        ],
+        "mounting": [
+          "Wall-mounted"
+        ],
+        "condition": [
+          "Good"
+        ],
+        "sign_shape": [
+          "Circular"
+        ]
+      }
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Back"
+    },
+    {
+      "id": 2,
+      "name": "Front"
+    },
+    {
+      "id": 3,
+      "name": "Side"
+    }
+  ]
+}

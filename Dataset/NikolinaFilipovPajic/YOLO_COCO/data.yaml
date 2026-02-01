@@ -1,0 +1,12 @@
+path: /Users/nfilipovpajic/UM/adv_CV/YOLO_COCO # Use absolute path for the trainer, but script remains portable
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: stop
+  1: no_entry
+  2: pedestrian_crossing
+  3: roundabout_ahead
+  4: no_through_road
+  5: blind_spot_mirror
