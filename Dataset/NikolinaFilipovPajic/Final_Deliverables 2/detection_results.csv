@@ -1,0 +1,90 @@
+image_name,detected_count,sign_types,attribute_status
+20260110_172633.jpg,1,roundabout_ahead,To be classified
+20260110_172734.jpg,1,roundabout_ahead,To be classified
+IMG_1500.jpg,2,"stop, stop",To be classified
+IMG_1508.jpg,2,"blind_spot_mirror, no_entry",To be classified
+IMG_1521.jpg,1,no_entry,To be classified
+IMG_1547.jpg,2,"no_through_road, no_entry",To be classified
+IMG_1549.jpg,1,no_through_road,To be classified
+IMG_1554.jpg,1,roundabout_ahead,To be classified
+IMG_1555.jpg,2,"roundabout_ahead, no_entry",To be classified
+IMG_1559.jpg,2,"roundabout_ahead, blind_spot_mirror",To be classified
+IMG_1565.jpg,1,blind_spot_mirror,To be classified
+IMG_1570.jpg,2,"blind_spot_mirror, no_entry",To be classified
+IMG_1585.jpg,1,blind_spot_mirror,To be classified
+IMG_1586.jpg,2,"blind_spot_mirror, no_entry",To be classified
+IMG_1594.jpg,1,no_through_road,To be classified
+IMG_1602.jpg,1,roundabout_ahead,To be classified
+IMG_1610.jpg,1,no_through_road,To be classified
+IMG_1612.jpg,1,no_through_road,To be classified
+IMG_1619.jpg,1,no_through_road,To be classified
+IMG_1625.jpg,1,stop,To be classified
+IMG_1627.jpg,1,stop,To be classified
+IMG_1639.jpg,1,stop,To be classified
+IMG_1647.jpg,1,blind_spot_mirror,To be classified
+IMG_1649.jpg,1,stop,To be classified
+IMG_20251123_141836.jpg,1,blind_spot_mirror,To be classified
+IMG_20251123_141844.jpg,1,blind_spot_mirror,To be classified
+IMG_20251123_143253.jpg,1,blind_spot_mirror,To be classified
+IMG_20251123_144153.jpg,1,blind_spot_mirror,To be classified
+IMG_20251123_145355.jpg,2,"no_through_road, roundabout_ahead",To be classified
+IMG_20251123_145510.jpg,1,no_through_road,To be classified
+IMG_20251123_145525.jpg,1,no_through_road,To be classified
+IMG_20251123_151500.jpg,2,"no_entry, roundabout_ahead",To be classified
+IMG_20251123_151721.jpg,4,"blind_spot_mirror, blind_spot_mirror, blind_spot_mirror, no_through_road",To be classified
+IMG_20251123_151749.jpg,2,"no_through_road, roundabout_ahead",To be classified
+IMG_20251123_170242.jpg,0,,To be classified
+IMG_20251125_112311.jpg,1,blind_spot_mirror,To be classified
+IMG_20251125_114007.jpg,1,roundabout_ahead,To be classified
+IMG_20251125_120940.jpg,1,pedestrian_crossing,To be classified
+IMG_20251125_121336.jpg,1,stop,To be classified
+IMG_20251125_121341.jpg,1,stop,To be classified
+IMG_20251125_121731.jpg,1,roundabout_ahead,To be classified
+IMG_20251125_121736.jpg,1,roundabout_ahead,To be classified
+IMG_20251125_122225.jpg,1,blind_spot_mirror,To be classified
+IMG_20251125_122230.jpg,1,blind_spot_mirror,To be classified
+IMG_20251125_122405.jpg,1,pedestrian_crossing,To be classified
+IMG_20251125_123922.jpg,2,"pedestrian_crossing, pedestrian_crossing",To be classified
+IMG_20251125_124355.jpg,1,pedestrian_crossing,To be classified
+IMG_20260106_160054_306.jpg,1,no_through_road,To be classified
+IMG_20260106_160445_325.jpg,1,roundabout_ahead,To be classified
+IMG_20260106_160603_182.jpg,1,no_entry,To be classified
+IMG_20260106_160608_331.jpg,1,no_entry,To be classified
+IMG_20260106_161748_502.jpg,1,no_entry,To be classified
+IMG_20260106_161759_929.jpg,1,no_entry,To be classified
+IMG_20260106_161915_625.jpg,1,no_entry,To be classified
+IMG_20260106_162321_819.jpg,2,"stop, stop",To be classified
+IMG_20260110_172708_008.jpg,1,roundabout_ahead,To be classified
+IMG_20260110_172802_219.jpg,1,roundabout_ahead,To be classified
+IMG_20260110_173054_575.jpg,1,blind_spot_mirror,To be classified
+IMG_20260110_173131_747.jpg,1,blind_spot_mirror,To be classified
+IMG_20260110_173133_971.jpg,1,blind_spot_mirror,To be classified
+IMG_20260110_173137_033.jpg,1,blind_spot_mirror,To be classified
+IMG_20260113_083746_709.jpg,1,roundabout_ahead,To be classified
+IMG_20260113_083824_297.jpg,1,roundabout_ahead,To be classified
+IMG_20260113_083838_411.jpg,1,stop,To be classified
+IMG_20260113_083840_660.jpg,1,stop,To be classified
+IMG_20260113_084501_771.jpg,1,blind_spot_mirror,To be classified
+IMG_20260113_084533_678.jpg,1,no_entry,To be classified
+IMG_20260113_084940_280.jpg,1,roundabout_ahead,To be classified
+IMG_20260113_084953_901.jpg,1,roundabout_ahead,To be classified
+IMG_8813.jpeg,1,no_entry,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.13__2__2_-_Edited.jpg,1,blind_spot_mirror,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.24__3_.jpeg,1,blind_spot_mirror,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.25.jpeg,2,"no_entry, roundabout_ahead",To be classified
+WhatsApp_Image_2025-11-16_at_17.52.25__1_.jpeg,1,blind_spot_mirror,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.25__4_.jpeg,1,no_entry,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.25__5_.jpeg,1,no_entry,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.26__2_.jpeg,1,blind_spot_mirror,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.28__3_.jpeg,1,roundabout_ahead,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.28__5__-_Edited.jpg,1,roundabout_ahead,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.29__4_.jpeg,1,no_entry,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.29__5_.jpeg,1,no_entry,To be classified
+WhatsApp_Image_2025-11-16_at_17.52.30.jpeg,1,roundabout_ahead,To be classified
+WhatsApp_Image_2025-11-17_at_12.38.34__2_.jpeg,0,,To be classified
+WhatsApp_Image_2025-11-17_at_15.01.47__1_.jpeg,1,roundabout_ahead,To be classified
+WhatsApp_Image_2025-11-17_at_15.01.47__2_.jpeg,1,no_entry,To be classified
+WhatsApp_Image_2025-11-17_at_15.01.48.jpeg,1,blind_spot_mirror,To be classified
+WhatsApp_Image_2025-11-20_at_16.02.59.jpeg,1,stop,To be classified
+WhatsApp_Image_2025-11-20_at_16.02.59__2_.jpeg,1,stop,To be classified
+WhatsApp_Image_2025-11-20_at_16.56.49__2_.jpeg,1,blind_spot_mirror,To be classified
